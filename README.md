@@ -1,4 +1,4 @@
-# hospital-system-v3
+# vue3-system-init
 
 This template should help get you started developing with Vue 3 in Vite.
 
